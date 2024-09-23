@@ -1,5 +1,5 @@
 # 499-Grammar-Error-Detection
-Based on different Nural and Rule based hybrid models.
+Based on different Neural and Rule based hybrid models.
 
 499 Project of NSU
 
